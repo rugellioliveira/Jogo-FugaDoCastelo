@@ -1,0 +1,8 @@
+Tiao;38
+Jose;40
+Maria;50
+Joao;38
+Ana;102
+Pedro;97
+Antônio;38
+Teresa;80

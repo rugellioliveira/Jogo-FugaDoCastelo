@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Analisador
+comment0.text=\r\n\ Esta\ classe\ eh\ parte\ da\ aplicacao\ "Fuga\ do\ Castelo".\ \ \r\n\ \r\n\ Esse\ analisador\ l\u00EA\ a\ entrada\ do\ usuario\ e\ tenta\ interpreta-la\ como\ um\r\n\ comando\ "Adventure".\ Cada\ vez\ que\ eh\ chamado\ ele\ l\u00EA\ uma\ linha\ do\ terminal\r\n\ e\ tenta\ interpretar\ a\ linha\ como\ um\ comando\ de\ duas\ palavras.\ Ele\ retorna\r\n\ o\ comando\ como\ um\ objeto\ da\ classe\ Comando.\r\n\r\n\ O\ analisador\ tem\ um\ conjunto\ de\ palavras\ de\ comando\ conhecidas.\ Ele\ compara\r\n\ a\ entrada\ do\ usuario\ com\ os\ comandos\ conhecidos,\ e\ se\ a\ entrada\ nao\ eh\ um\r\n\ dos\ comandos\ conhecidos,\ ele\ retorna\ um\ objeto\ comando\ que\ eh\ marcado\ como\r\n\ um\ comando\ desconhecido.\r\n\ \r\n\ @author\ de\ "Fuga\ do\ Castelo"(Rugelli\ Oliveira)\r\n\ @version\ 2022.03.25\r\n
+comment1.params=interfaceUsuarioAnalisador
+comment1.target=Analisador(br.ufla.gac103.s2021_2.baseJogo.InterfaceUsuario)
+comment1.text=\r\n\ Cria\ um\ analisador\ para\ ler\ do\ terminal.\r\n
+comment2.params=interfaceUsuarioAnalisador
+comment2.target=Analisador\ getInstanceAnalisador(br.ufla.gac103.s2021_2.baseJogo.InterfaceUsuario)
+comment2.text=\r\n\ O\ m\u00E9todo\ cria\ a\ inst\u00E2ncia\ apenas\ na\ primeira\ vez\ que\ \u00E9\ chamado.\ \r\n\ A\ partir\ da\u00ED\ retorna\ a\ inst\u00E2ncia\ que\ havia\ sido\ criada\ antes.\r\n
+comment3.params=
+comment3.target=Comando\ pegarComando()
+comment3.text=\r\n\ @return\ O\ proximo\ comando\ do\ usuario\r\n
+comment4.params=
+comment4.target=java.lang.String\ getComandos()
+numComments=5

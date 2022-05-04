@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ Esta\ classe\ eh\ parte\ da\ aplicacao\ "Fuga\ do\ Castelo".\r\n\ \r\n\ Um\ item\ representa\ objetos\ ou\ artefatos\ que\ podem\ estar\ presentes\r\n\ em\ um\ ou\ mais\ ambientes\ do\ jogo.\ Ele\ pode\ ser\ coletado\ e\ usado\ pelo\r\n\ personagem\ do\ jogo\ (o\ prisioneiro).\r\n\ \r\n\ @author\ Rugelli\ Oliveira\r\n\ @version\ 2022.03.25\r\n
+comment1.params=nome\ descricao\ usoUnico\ caminhoImagem
+comment1.target=Item(java.lang.String,\ java.lang.String,\ boolean,\ java.lang.String)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Item\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDescricao()
+comment3.params=
+comment3.target=java.lang.String\ NomeDoItem()
+comment4.params=
+comment4.target=boolean\ ehUsoUnico()
+comment5.params=
+comment5.target=java.lang.String\ getNome()
+numComments=6

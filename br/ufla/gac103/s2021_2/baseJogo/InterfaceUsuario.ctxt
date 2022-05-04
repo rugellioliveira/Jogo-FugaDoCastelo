@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=InterfaceUsuario
+comment0.text=\r\n\ Define\ uma\ interface\ gen\u00E9rica\ de\ Interface\ com\ o\ Usu\u00E1rio.\r\n\ \r\n\ A\ ideia\ \u00E9\ que\ classes\ que\ implementem\ essa\ interface\ definam\ como\ o\ usu\u00E1rio\ interage\ com\r\n\ o\ jogo.\ Pode\ existir,\ por\ exemplo,\ uma\ classe\ que\ implemente\ uma\ janela\ gr\u00E1fica\ e\ uma\r\n\ classe\ que\ implemente\ intera\u00E7\u00E3o\ via\ terminal.\r\n\ \r\n\ @author\ Julio\ C\u00E9sar\ Alves\r\n\ @version\ 2022-03-22\r\n
+comment1.params=mensagem
+comment1.target=void\ exibirMensagem(java.lang.String)
+comment1.text=\r\n\ Exibe\ uma\ nova\ mensagem\ para\ o\ jogador\r\n\ \r\n\ @param\ mensagem\ Mensagem\ a\ ser\ exibida\ para\ o\ usu\u00E1rio.\r\n
+comment2.params=mensagem
+comment2.target=void\ continuarMensagem(java.lang.String)
+comment2.text=\r\n\ Acrescenta\ informa\u00E7\u00E3o\ \u00E0\ uma\ mensagem\ anterior\r\n\ \r\n\ @param\ mensagem\ Informa\u00E7\u00E3o\ a\ ser\ acrecentada\ na\ mensagem\ anterior\r\n
+comment3.params=
+comment3.target=java.lang.String\ obterComando()
+comment3.text=\r\n\ Obt\u00E9m\ um\ comando\ do\ jogador.\ Deve\ ser\ chamado\ apenas\ na\ classe\ Analisador.\r\n
+comment4.params=instrucao
+comment4.target=java.lang.String\ obterInformacao(java.lang.String)
+comment4.text=\r\n\ Obt\u00E9m\ uma\ informa\u00E7\u00E3o\ do\ usu\u00E1rio\ como\ String.\ \r\n\ \r\n\ Obs.\:\ n\u00E3o\ deve\ ser\ usado\ para\ comandos.\ No\ caso\ de\ comandos\ use\ 'obterComando'.\r\n\ \r\n\ @param\ instrucao\ Mensagem\ de\ instru\u00E7\u00E3o\ para\ o\ usu\u00E1rio\ (diz\ qual\ informa\u00E7\u00E3o\ est\u00E1\ sendo\ solicitada)\r\n
+comment5.params=ambiente
+comment5.target=void\ ambienteAtualMudou(EntidadeGrafica)
+comment5.text=\r\n\ Informa\ a\ Interface\ do\ Usu\u00E1rio\ que\ o\ jogador\ mudou\ de\ ambiente.\r\n\ \r\n\ @param\ ambiente\ Objeto\ do\ novo\ ambiente\ atual.\r\n
+comment6.params=item
+comment6.target=void\ jogadorPegouItem(EntidadeGrafica)
+comment6.text=\r\n\ Informa\ a\ Interface\ do\ Usu\u00E1rio\ que\ o\ jogador\ pegou\ um\ item\ (ou\ similar).\r\n\ \r\n\ @param\ item\ Objeto\ do\ item\ que\ o\ usu\u00E1rio\ pegou.\r\n
+comment7.params=item
+comment7.target=void\ jogadorDescartouItem(EntidadeGrafica)
+comment7.text=\r\n\ Informa\ a\ Interface\ do\ Usu\u00E1rio\ que\ o\ jogador\ n\u00E3o\ tem\ mais\ um\ item\ (ou\ similar).\r\n\ \r\n\ @param\ item\ Objeto\ do\ item\ que\ o\ usu\u00E1rio\ n\u00E3o\ tem\ mais.\r\n
+numComments=8

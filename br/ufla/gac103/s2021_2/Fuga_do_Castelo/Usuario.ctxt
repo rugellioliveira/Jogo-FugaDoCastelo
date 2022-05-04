@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Usuario
+comment0.text=\r\n\ Esta\ classe\ faz\ parte\ da\ aplica\u00E7\u00E3o\ "Fuga\ do\ Castelo"\r\n\ Ela\ representa\ um\ Usu\u00E1rio\ do\ jogo.\r\n\ \r\n\ @author\ Rugelli\ Oliveira\ \r\n\ @version\ 2022.04.10\r\n
+comment1.params=nome
+comment1.target=Usuario(java.lang.String)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Usuario\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNomeUsuario()
+comment3.params=tempo
+comment3.target=void\ setTempoJogo(long)
+comment4.params=
+comment4.target=long\ getTempoJogo()
+numComments=5

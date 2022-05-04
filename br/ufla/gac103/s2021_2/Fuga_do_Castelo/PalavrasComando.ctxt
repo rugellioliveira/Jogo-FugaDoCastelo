@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PalavrasComando
+comment0.text=\r\n\ Esta\ classe\ eh\ parte\ da\ aplicacao\ "Fuga\ do\ Castelo".\ \r\n\ \r\n\ Essa\ classe\ guarda\ uma\ enumeracao\ de\ todos\ os\ comandos\ conhecidos\ do\r\n\ jogo.\ Ela\ eh\ usada\ no\ reconhecimento\ de\ comandos\ como\ eles\ sao\ digitados.\r\n\r\n\ @author\ de\ "Fuga\ do\ Castelo"(Rugelli\ Oliveira)\r\n\ @version\ 2022.03.01\r\n
+comment1.params=
+comment1.target=java.lang.String\ getComandos()
+comment2.params=
+comment2.target=PalavrasComando()
+comment2.text=\r\n\ Construtor\ -\ inicializa\ as\ palavras\ de\ comando.\r\n
+comment3.params=umaString
+comment3.target=boolean\ ehComando(java.lang.String)
+comment3.text=\r\n\ Verifica\ se\ uma\ dada\ String\ eh\ uma\ palavra\ de\ comando\ valida.\ \r\n\ @return\ true\ se\ a\ string\ dada\ eh\ um\ comando\ valido,\r\n\ false\ se\ nao\ eh.\r\n
+numComments=4

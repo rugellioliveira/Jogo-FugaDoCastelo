@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EntidadeGrafica
+comment0.text=\r\n\ Classe\ abstrata\ que\ define\ uma\ entidade\ (ambiente\ ou\ item)\ que\ possui\ uma\ imagem.\r\n\ \r\n\ @author\ Julio\ C\u00E9sar\ Alves\r\n\ @version\ 2022-03-22\r\n
+comment1.params=caminhoImagem
+comment1.target=EntidadeGrafica(java.lang.String)
+comment1.text=\r\n\ Construtor\ da\ classe\ recebe\ o\ caminho\ do\ arquivo\ que\ cont\u00E9m\ a\ imagem.\r\n\ \r\n\ Por\ exemplo,\ se\ voc\u00EA\ tiver\ uma\ pasta\ chamada\ 'imagens'\ na\ pasta\ do\ seu\ projeto\ (ou\ seja,\r\n\ ao\ lado\ da\ pasta\ 'br'),\ e\ dentro\ desta\ pasta\ tiver\ um\ arquivo\ 'sala.jpg',\ o\ caminho\ para\r\n\ essa\ imagem\ ser\u00E1\ "imagens/casa.jpg".\r\n\ \r\n\ @param\ caminhoImagem\ Caminho\ do\ arquivo\ que\ cont\u00E9m\ a\ imagem.\r\n
+comment2.params=
+comment2.target=java.awt.image.BufferedImage\ getImagem()
+comment2.text=\r\n\ Retorna\ a\ imagem\ que\ representa\ a\ entidade\ (ambiente\ ou\ item)\r\n
+comment3.params=
+comment3.target=java.lang.String\ getNome()
+comment3.text=\r\n\ M\u00E9todo\ abstrato\ que\ retorna\ o\ nome\ da\ entidade\ (ambiente\ ou\ item)\r\n
+numComments=4

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Ranking
+comment0.text=\r\n\ Esta\ classe\ faz\ parte\ da\ aplica\u00E7\u00E3o\ "Fuga\ do\ Castelo"\r\n\ Ela\ representa\ o\ ranking\ do\ jogo,\ ou\ seja,\ a\ classifica\u00E7\u00E3o\ dos\ usu\u00E1rios\ de\ acordo\ com\ o\ tempo\ que\ cada\ um\ levou\ para\ vencer\ o\ jogo.\r\n\ \r\n\ @author\ Rugelli\ Oliveira\r\n\ @version\ 2022.04.10\r\n
+comment1.params=
+comment1.target=Ranking()
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Ranking\r\n
+comment2.params=
+comment2.target=Ranking\ getInstanceRanking()
+comment2.text=\r\n\ O\ m\u00E9todo\ cria\ a\ inst\u00E2ncia\ apenas\ na\ primeira\ vez\ que\ \u00E9\ chamado.\ \r\n\ A\ partir\ da\u00ED\ retorna\ a\ inst\u00E2ncia\ que\ havia\ sido\ criada\ antes.\r\n
+comment3.params=
+comment3.target=long\ iniciarContagem()
+comment3.text=\r\n\ M\u00E9todo\ para\ retornar\ a\ quantidade\ de\ milissegundos\ que\ se\ passou\ desde\ 1\ de\ janeiro\ de\ 1970,\ \u00E0\ meia-noite,\ em\ UTC\ (instante\ zero)\r\n\ M\u00E9todo\ para\ ser\ chamado\ ao\ iniciar\ o\ jogo\r\n
+comment4.params=
+comment4.target=long\ tempoDeJogo()
+comment4.text=\r\n\ M\u00E9todo\ para\ ser\ chamado\ quando\ finalizar\ o\ jogo,\ somente\ na\ situa\u00E7\u00E3o\ em\ que\ o\ usu\u00E1rio\ foi\ vencedor\r\n
+comment5.params=usuario
+comment5.target=void\ incluirNoRanking(Usuario)
+comment5.text=\r\n\ M\u00E9todo\ para\ incluir\ (salvar)\ usuario\ no\ ranking\r\n
+comment6.params=
+comment6.target=java.util.ArrayList\ carregarRanking()
+comment6.text=\r\n\ M\u00E9todo\ para\ carregar\ dados\ salvos\ no\ arquivo\ texto\r\n
+comment7.params=usuario1\ usuario2
+comment7.target=int\ compare(Usuario,\ Usuario)
+numComments=8

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Personagem
+comment0.text=\r\n\ Esta\ classe\ faz\ parte\ da\ aplica\u00E7\u00E3o\ "Fuga\ do\ Castelo"\r\n\ Ela\ representa\ um\ personagem\ no\ jogo.\r\n\ \r\n\ @author\ Rugelli\ Oliveira\ \r\n\ @version\ 2022.03.25\r\n
+comment1.params=funcao\ descricaoPersonagem
+comment1.target=Personagem(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getFuncao()
+comment3.params=
+comment3.target=int\ getPontosDeVidaAtual()
+comment4.params=novoItem
+comment4.target=void\ adicionarItemNoPersonagem(Item)
+comment5.params=itemARemover
+comment5.target=void\ removeDoPersonagem(Item)
+comment6.params=
+comment6.target=java.lang.String\ itensDoPersonagem()
+comment7.params=nomeItemX
+comment7.target=Item\ temOItem(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getDescricaoPersonagem()
+comment9.params=
+comment9.target=void\ recebeuAtaque()
+numComments=10

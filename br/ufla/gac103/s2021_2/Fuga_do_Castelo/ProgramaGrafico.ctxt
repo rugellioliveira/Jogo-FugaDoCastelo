@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ProgramaGrafico
+comment0.text=\r\n\ \ Classe\ que\ cont\u00E9m\ o\ m\u00E9todo\ main\ cria\ uma\ instancia\ da\ Classe\ Jogo\ e\ chama\ o\ metodo\r\n\ \ "jogar()"\ para\ iniciar\ o\ jogo\ atrav\u00E9s\ da\ Tela\ (interface\ gr\u00E1fica).\r\n\ \r\n\ @author\ Rugelli\ Oliveira\ \r\n\ @version\ 2022.04.20\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Prisioneiro
+comment0.text=\r\n\ Esta\ classe\ eh\ parte\ da\ aplicacao\ "Fuga\ do\ Castelo".\r\n\ Ela\ representa\ o\ personagem\ Prisioneiro,\ ele\ pode\ se\ mover\ \r\n\ pelos\ ambientes.\ Al\u00E9m\ disso,\ o\ prisioneiro\ tamb\u00E9m\ pode\ pegar\ e\ usar\ itens\r\n\ nos\ ambientes.\r\n\ \r\n\ Prisioneiro\ herda\ da\ classe\ Personagem\r\n\ \r\n\ @author\ Rugelli\ Oliveira\ \r\n\ @version\ 2022.03.25\r\n
+comment1.params=nome
+comment1.target=Prisioneiro(java.lang.String)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Prisioneiro\r\n
+comment2.params=
+comment2.target=Prisioneiro\ getInstancePrisioneiro()
+comment2.text=\r\n\ O\ m\u00E9todo\ cria\ a\ inst\u00E2ncia\ apenas\ na\ primeira\ vez\ que\ \u00E9\ chamado.\ \r\n\ \ A\ partir\ da\u00ED\ retorna\ a\ inst\u00E2ncia\ que\ havia\ sido\ criada\ antes.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getNomePrisioneiro()
+numComments=4

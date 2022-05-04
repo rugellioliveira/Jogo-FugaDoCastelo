@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Guarda
+comment0.text=\r\n\ Esta\ classe\ eh\ parte\ da\ aplicacao\ "Fuga\ do\ Castelo".\r\n\ \r\n\ Ela\ representa\ um\ Guarda\ o\ personagem\ inimigo,\ ele\ fica\ apenas\ no\ ambiente\ em\ que\ foi\ criado.\r\n\ Al\u00E9m\ disso,\ o\ guarda\ pode\ usar\ itens\ para\ tentar\ eliminar\ o\ prisioneiro.\r\n\ \r\n\ Guarda\ herda\ da\ classe\ Personagem\r\n\ \r\n\ @author\ Rugelli\ Oliveira\ \r\n\ @version\ 2022.03.25\r\n
+comment1.params=
+comment1.target=Guarda()
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Guarda\r\n
+comment2.params=
+comment2.target=int\ getNumeroGuarda()
+comment3.params=
+comment3.target=java.lang.String\ getDescricaoPersonagem()
+comment3.text=\r\n\ Sobrescreve\ o\ m\u00E9todo\ getDescricaoPersonagem\ da\ superclasse\ (Personagem),\ \r\n\ acrescentando\ informa\u00E7\u00F5es\ especificas\ do\ personagem\ Guarda\r\n
+numComments=4
